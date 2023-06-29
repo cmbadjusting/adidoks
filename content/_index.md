@@ -13,17 +13,41 @@ repo_url = "https://github.com/aaranxu/adidoks"
 
 # Menu items
 [[extra.menu.main]]
-name = "Docs"
-section = "docs"
-url = "/docs/getting-started/introduction/"
+name = "About"
+section = "about"
+url = "/about"
 weight = 10
 
 [[extra.menu.main]]
-name = "Blog"
-section = "blog"
-url = "/blog/"
-weight = 20
+name = "Frequently Asked Questions"
+section = "faqs"
+url = "/faqs"
+weight = 10
 
+[[extra.menu.main]]
+name = "Services"
+section = "services"
+url = "/services"
+weight = 10
+
+[[extra.menu.main]]
+name = "Contact"
+section = "contact"
+url = "contact"
+weight = 10
+
+[[extra.menu.main]]
+name = "Client References"
+section = "references"
+url = "/references"
+weight = 10
+
+[[extra.menu.main]]
+name = "Case Study"
+section = "case status"
+url = "/case-study"
+weight = 20
+<!-- 
 [[extra.list]]
 title = "Security aware"
 content = 'Get A+ scores on <a href="https://observatory.mozilla.org/analyze/adidoks.org">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs.'
@@ -46,6 +70,6 @@ content = "Build pages with a landing page, blog, or documentation layout. Add c
 
 [[extra.list]]
 title = "Dark mode"
-content = "Switch to a low-light UI with the click of a button. Change colors with variables to match your branding."
+content = "Switch to a low-light UI with the click of a button. Change colors with variables to match your branding." -->
 
 +++
