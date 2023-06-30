@@ -107,3 +107,49 @@ weight = 10
 name = "Code of Conduct"
 url = "/docs/contributing/code-of-conduct/"
 weight = 20
+
+# The homepage contents
+[extra]
+lead = ''
+url = "/"
+url_button = "aaa"
+repo_version = "GitHub v0.1.0"
+repo_license = "Open-source MIT License."
+repo_url = "https://github.com/cmbadjusting/adidoks"
+
+# Menu items
+[[extra.menu.main]]
+name = "About"
+section = "about"
+url = "/about"
+weight = 10
+
+[[extra.menu.main]]
+name = "Frequently Asked Questions"
+section = "faqs"
+url = "/faqs"
+weight = 20
+
+[[extra.menu.main]]
+name = "Services"
+section = "services"
+url = "/services"
+weight = 30
+
+[[extra.menu.main]]
+name = "Contact"
+section = "/contact"
+url = "contact"
+weight = 40
+
+[[extra.menu.main]]
+name = "Client References"
+section = "references"
+url = "/references"
+weight = 50
+
+[[extra.menu.main]]
+name = "Case Study"
+section = "case status"
+url = "/case-study"
+weight = 60
