@@ -22,31 +22,31 @@ weight = 10
 name = "Frequently Asked Questions"
 section = "faqs"
 url = "/faqs"
-weight = 10
+weight = 20
 
 [[extra.menu.main]]
 name = "Services"
 section = "services"
 url = "/services"
-weight = 10
+weight = 30
 
 [[extra.menu.main]]
 name = "Contact"
-section = "contact"
+section = "/contact"
 url = "contact"
-weight = 10
+weight = 40
 
 [[extra.menu.main]]
 name = "Client References"
 section = "references"
 url = "/references"
-weight = 10
+weight = 50
 
 [[extra.menu.main]]
 name = "Case Study"
 section = "case status"
 url = "/case-study"
-weight = 20
+weight = 60
 <!-- 
 [[extra.list]]
 title = "Security aware"
